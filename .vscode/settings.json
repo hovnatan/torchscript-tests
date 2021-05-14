@@ -2,7 +2,6 @@
     "files.associations": {
         "iostream": "cpp"
     },
-    "cmake.cmakePath" : "/Applications/CMake.app/Contents/bin/cmake"
 
 
 }
